@@ -1,9 +1,3 @@
-# CMPT 120 Yet Another Image Processer
-# Starter code for main.py
-# Author(s):
-# Date:
-# Description:
-
 import cmpt120imageProj
 import cmpt120imageManip
 import tkinter.filedialog
